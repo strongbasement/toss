@@ -1,0 +1,76 @@
+.con
+{
+    display: flex;
+    justify-content: center;
+}
+.c2
+{
+    display: flex;
+    justify-content: center;
+}
+.v3
+{
+    display: flex;
+    justify-content: center;
+}
+.v4
+{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    color: cadetblue;
+}
+.superButtons
+{
+    background-color: azure;
+    border-radius: 12px;
+    height: 60px;
+    font-style: italic;
+    color:darkblue;
+    border-color: blueviolet;
+    font-size: 32px;
+}
+#first-section
+{
+    display: flex;
+    background-color: red;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#fs1
+{
+display: flex;
+justify-content: center;
+}
+#fs2
+{
+display: flex;
+justify-content: center;
+}
+#fs3
+{
+display: flex;
+justify-content: center;
+}
+.mar
+{
+    
+    margin: 10px;
+}
+.red
+{
+    color: red;
+    display: flex;
+    flex-grow: wrap;
+
+}
+.high
+{
+height: ;
+}
